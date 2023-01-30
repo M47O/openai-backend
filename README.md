@@ -12,6 +12,6 @@ This repo serves as a simple back-end NodeJS template that generates images usin
 
 More than anything, this project was intended so that I could have a template I can quickly manipulate to fit larger full-stack applications that employ the OpenAI API. 
 
-However, I did learn that despite the complexity of OpenAI's platforms and programs, they can easily be interfaced with through simple endpoint-guided APIs. Anyone new to APIs in general should have an easy time manipulating this template to fit their needs should they wish to utilize the OpenAI API.
+However, I did learn that despite the complexity of OpenAI's platforms and models, they can easily be interfaced with through simple endpoint-guided APIs. Anyone new to APIs in general should have an easy time manipulating this template to fit their needs should they wish to utilize the OpenAI API.
 
 
